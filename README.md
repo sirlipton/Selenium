@@ -4,7 +4,7 @@ Hidden Element - Created script to click the start button and scrape dynamic ren
 
 Image Search - Browser will search anything that is inputted within the quotations in Line 9 (i.e. Eiffel Tower, The White House, and Brad Pitt) and click on images of searched text
 
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Java projects:
 
