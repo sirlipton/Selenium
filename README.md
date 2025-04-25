@@ -12,4 +12,4 @@ LoopingDropDown - Browser will click on passengers and click on the add button u
 
 DynamicDropdown - Browser will close the advertisement then proceed to click "From" and enter DC in the search bar. Next, it will go through the available options and pick out Dulles Intl-DC
 
-Locators - Practiced navigating through a website using various locators such as: xpath, css selector, id, name, linktext, and classname
+Locators - Practiced navigating through a website using various locators such as: xpath, css selector, id, name, linktext, and classname. Practiced the workflow of typing incorrect credentials, getting a temporary password, then signing in with temporary password
